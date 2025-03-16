@@ -2,9 +2,9 @@
 <h3 align="center">🚀 AI Engineer | NLP | Deep Learning | Computer Vision</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   <a href="https://github.com/your-username?tab=followers">
-    <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/sharanya39?label=Followers&style=social" alt="GitHub followers" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@
 |---------|------------|------------|
 | [🛠 AI Chatbot with RAG](https://github.com/sharanya39/Chatbot) | Built an NLP chatbot using **Retrieval-Augmented Generation (RAG)** for contextual responses | `Transformers`, `LangChain`, `Vector DB` |
 | [🔍 Object Detection Pretraining](https://github.com/sharanya39/yolo) | Annotated & preprocessed dataset for object detection model training | `YOLO`, `OpenCV`, `TensorFlow` |
-| [📡 Flask API for AI Models](https://github.com/sharanya39/QA_Bot) | Created API endpoints for AI-based services | `Flask`, `FastAPI`, `Render` |
+| [📡 Flask API for AI Models](https://github.com/sharanya39/QA_Bot) | Created API endpoints for AI-based services | `Flask`, `Render` |
 | [🎭 Lip-Sync Sentiment Analysis](https://github.com/sharanya39/web_scrapping) | Used **Transformers** to analyze speech sentiment for **Lip-Syncing AI** | `Hugging Face`, `PyTorch`, `Deep Learning` |
 
 ---
