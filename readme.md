@@ -5,7 +5,7 @@
 ---
 
 ### **💡 About Me**
-- 🎯 **AI Engineer** with experience in **NLP, Machine Learning, and Deep Learning**  
+- 🎯 **AI Professional** with experience in **NLP, Machine Learning, and Deep Learning**  
 - 🤖 Built **Chatbots with RAG implementation**, integrating retrieval-based pipelines  
 - 🏗 Developed **Flask API endpoints** for AI applications  
 - 🏷 **Data Annotation & Preprocessing** for **Object Detection** and **Model Pretraining**  
