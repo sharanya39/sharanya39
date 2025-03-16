@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm [Sharanya ]</h1>
 <h3 align="center">🚀 AI Engineer | NLP | Deep Learning | Computer Vision</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sharanya39&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/your-username?tab=followers">
-    <img src="https://img.shields.io/github/followers/sharanya39?label=Followers&style=social" alt="GitHub followers" />
-  </a>
-</p>
 
 ---
 
