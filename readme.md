@@ -12,9 +12,7 @@
 - 🔬 Created **Synthetic Datasets** for training AI models  
 - 📊 **Sentiment Analysis** using **Transformers for Lip-Syncing Applications**  
 - 🧠 **Expertise** in **PyTorch, Scikit-Learn, NLP, Transformers, and Object Detection**  
-- 📫 Reach me at **[Your Email]**  
-- 🔗 Portfolio: **[Your Portfolio/Website](Your Website Link)**  
-
+- 📊 **Webscrapping** using **Beautiful soup, selenium** and **DeepFace Model** 
 ---
 
 ### **🚀 Tech Stack**
